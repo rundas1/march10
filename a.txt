@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello there!
-=======
-there you go
->>>>>>> v1
